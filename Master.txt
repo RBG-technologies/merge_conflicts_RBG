@@ -1,1 +1,2 @@
 this master1 branch file
+this is second line in master branch
